@@ -13,7 +13,7 @@ public class OpenAPIConfig {
 
         return new OpenAPI()
                 .info(new Info().title("Flight Service API")
-                        .description("API documentation for the Booking Service")
+                        .description("API documentation for the Flight Service")
                         .version("v0.0.1")
                         .license(new License()
                                 .name("Apache 2.0")
